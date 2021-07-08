@@ -1,9 +1,7 @@
 ## E2 - Python TSA Analysis
 
-**El ingreso solidario** es un es un subsidio entregado a los hogares en condición de pobreza, pobreza extrema y vulnerabilidad, cuyo objetivo es mitigar los impactos derivados de la emergencia causada por el covid-19.
+**Vicente Fernandez** (Guadalajara, 17 de febrero de 1940)1​ es un cantante de música ranchera, empresario, productor discográfico y actor mexicano, padre del también cantante Alejandro Fernández, es considerado un símbolo de la cultura hispanoamericana y uno de los artistas más populares de México. Las contribuciones de Fernández a la música junto con su vida personal publicitada, le han convertido en una figura global y representativa de la cultura ranchera durante más de cinco décadas. Su trabajo le ha valido dos premios Grammy, ocho premios Grammy Latinos, catorce premios Lo Nuestro y una estrella en el paseo de la fama de Hollywood. En abril de 2010 alcanzó la cifra de 75 millones de copias vendidos en todo el mundo.1​
 
-El programa busca apoyar a tres millones de hogares en condición de pobreza y vulnerabilidad económica que no son beneficiarios de otros programas sociales como, Familias en Acción,  Jóvenes en Acción, Compensación del impuesto sobre las ventas – IVA o Protección al Adulto Mayor -Colombia Mayor.
+Para el analisis de TSA tomamos de Google trends la popularidad de búsqueda de las palabras ***Ingreso Solidario*** con corte mensual durante los ultimos 5 años.
 
-Para el analisis de TSA tomamos de Google trends la popularidad de búsqueda de la palabra ***Ingreso Solidario*** con corte semanal durante los ultimos 12 meses.
-
-Datos de búsqueda de la palabra ***Ingreso Solidario***  [Google Trends](https://trends.google.es/trends/explore?q=ingreso%20solidario&geo=CO).
+Datos de búsqueda de la palabra ***Ingreso Solidario***  [Google Trends](https://trends.google.es/trends/explore?date=today%205-y&geo=CO&q=%2Fm%2F067swc).
