@@ -6,4 +6,4 @@ El programa busca apoyar a tres millones de hogares en condición de pobreza y v
 
 Para el analisis de TSA tomamos de Google trends la popularidad de búsqueda de la palabra ***Ingreso Solidario*** en el período de tiempo **Mayo/20 - Julio/21**.
 
-Datos de búsqueda de la palabra ***Ingreso Solidario***  [Google Trends](https://trends.google.com/trends/explore?date=2020-05-01%202021-07-08&geo=CO&q=ingreso%20solidario/).
+Datos de búsqueda de la palabra ***Ingreso Solidario***  [Google Trends](https://trends.google.com/trends/explore?date=2020-05-01%202021-07-08&geo=CO&q=ingreso%20solidario).
