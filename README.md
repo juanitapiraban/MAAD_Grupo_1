@@ -4,4 +4,10 @@
 
 Para el analisis de TSA tomamos de Google trends la popularidad de búsqueda de las palabras ***Vicente Fernandez - Cantante*** con corte mensual durante los ultimos 5 años.
 
-Datos de búsqueda de la palabra ***Vicente Fernandez - Cantante***  [Google Trends](https://trends.google.es/trends/explore?date=today%205-y&geo=CO&q=%2Fm%2F067swc).
+| Item | Elemento |
+| --- | --- |
+| Google Trends | Datos de búsqueda de la palabra   [Vicente Fernandez - Cantante](https://trends.google.es/trends/explore?date=today%205-y&geo=CO&q=%2Fm%2F067swc)|
+| Notebook |  |
+
+
+
